@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shawn Koski"]
   spec.email         = ["shawnnkoski@gmail.com"]
 
-  spec.summary       = %q{English to Cam Newton}
-  spec.description   = %q{Convert a string of of characters into a Cam Newton style string}
+  spec.summary       = %q{This gem gives all lower case letter in a string some type of accent.}
+  spec.description   = %q{Give all lower case letters in a string an accent. This gem was inspired by Cam Newton's social media messages(instagram, twitter). Just a fun little project during my time at the Flatiron School to learn how RubyGems work. Use rake console to run in irb so you can test it out.}
   spec.homepage      = "https://github.com/snkoski/camify-rubygem"
   spec.license       = "MIT"
 
