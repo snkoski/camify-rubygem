@@ -6,8 +6,8 @@ require "camify/version"
 Gem::Specification.new do |spec|
   spec.name          = "camify"
   spec.version       = Camify::VERSION
-  spec.authors       = ["<Shawn Koski>"]
-  spec.email         = ["<shawnnkoski@gmail.com>"]
+  spec.authors       = ["Shawn Koski"]
+  spec.email         = ["shawnnkoski@gmail.com"]
 
   spec.summary       = %q{English to Cam Newton}
   spec.description   = %q{Convert a string of of characters into a Cam Newton style string}
